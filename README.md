@@ -16,7 +16,7 @@ O objetivo é entender como diferentes sistemas se comunicam de forma padronizad
 ## Estrutura do Projeto
 
 ```
-mini-projeto-3-api/
+Mini_Servidor_API/
 │
 ├── README.md                    # Este arquivo
 ├── requirements.txt             # Dependências do projeto
